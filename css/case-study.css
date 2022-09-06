@@ -1,0 +1,178 @@
+html {
+    margin: 0;
+    background-color: #DFE6F1;
+}
+
+body {
+    background-color: #DFE6F1;
+}
+
+#headerContainer {
+    display: flex;
+    justify-content: center;
+    align-items: top;
+    background-color: #DFE6F1;
+}
+#logoDiv {
+    position: absolute;
+    justify-self: left;
+    place-items: left;
+    text-align: center;
+    width: 100%;
+}
+#logo {
+    width: 148px;
+    height: 180px;
+    padding: 15px;
+    float: left;
+}
+header {
+    background-color: #DFE6F1;
+    padding: 5px;
+}
+
+.tan-box {
+    padding: 10px;
+    background-color: #FFF5F5;
+    max-width: 800px;
+    width: 100%;
+    height: 75px;
+    margin: auto;
+}
+header ul {
+    text-align: center;
+    color: black;
+    font-size: x-large;
+    /* width: 100%; */
+    display: flex;
+    text-align: center;
+    padding-right: 38px;
+}
+header li {
+    display: inline-block;
+    padding: 0px 5px;
+    justify-content: center;
+ 
+}
+li {
+    letter-spacing: 2px;
+    padding: 100px;
+    /*line-height: 50px;*/
+    margin: auto;
+    /*align-content: space-between;*/
+    font-family: 'Gowun Batang', serif;
+    font-size: 24px;
+}
+h1 {
+    text-align: center;
+    font-family: 'Gowun Batang', serif;
+    font-size: 60px;
+    justify-content: center;
+   text-shadow: #FFF5F5;
+
+}
+
+.jumbotron {
+    background-color: #fff5f5;
+    padding: 90px;
+    padding-top: 20px;
+    text-align: center;
+    margin: 25px;
+
+}
+.container {
+    background-color: #DFE6F1;
+    max-width: 100%;
+    margin: 0;
+    padding: 50px;
+    height: 400px;
+    text-align: center;
+}
+h2 {
+    font-family: 'Gowun Batang', serif;
+    font-size: 36px;
+}
+
+h3 {
+    font-size: 16px;
+    font-family: 'Gowun Batang',serif;
+    padding-top: 50px;
+}
+
+p {
+    font-size: 18px;
+    font-family: 'Gowun Batang', serif;
+    
+}
+#carMock {
+    width: 500px;
+    height: 351px;
+}
+
+.list-group {
+    
+    display: flex;
+    flex-direction: column;
+    padding: 50px;
+    background-color: #FFF5F5;
+    margin: 50px;
+    
+
+}
+
+.list-group-item {
+    text-align: center;
+    text-align: right;
+    background-color: #DFE6F1;
+   
+}
+
+#affinity {
+    width: 500px;
+    height: 301px;
+    text-align: justify;
+    margin: 50px;
+    float: left;
+}
+
+#userFlow {
+    width: 600px;
+    height: 250px;
+    margin: 50px;
+    float: left;
+}
+
+#lofi {
+    margin: 50px;
+    float: left;
+  
+}
+#hifi {
+    float: right;
+    margin: 15px;
+
+}
+#mobileLofi {
+    margin-top: 22px;
+    margin-left: 50px;
+    float: inline-start;
+}
+
+#final {
+    float: left;
+}
+.userFlow {
+    margin-bottom: 25px;
+}
+
+.wireframe {
+    margin-bottom: 25px;
+}
+.finalThoughts {
+    margin-top: 15px;
+}
+
+li .list-group-item {
+    background-color: #DFE6F1;
+}
+
